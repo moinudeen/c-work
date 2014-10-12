@@ -6,7 +6,8 @@ int n;
 cin>>n;
 int f[200];
 f[1]=1;
-f[200]=1;
+m=1;
+int temp=0;
 for(int i=1;i<=n;i++)
 {
 f[i]=f[i]*i;
