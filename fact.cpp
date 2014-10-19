@@ -1,3 +1,6 @@
+// this program calculates the factorial
+
+
 #include<iostream>
 using namespace std;
 int main()
