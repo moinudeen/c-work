@@ -12,6 +12,8 @@ f[1]=1;
 m=1;
 int temp=0;
 for(int i=1;i<=n;i++)
+// i made this change
+
 {
 f[i]=f[i]*i;
 }
